@@ -1,7 +1,6 @@
 ## Hello!
 
-Thanks for coming to my GitHub! 
-- 🌱 I'm Jen Chen (she/her), a rising senior at Brown University studying a B.S. and M.S. in Computer Science with a focus in AI
+Thanks for coming to my GitHub! 🌱 I'm Jen Chen (she/her), a rising senior at Brown University studying a B.S. and M.S. in Computer Science with a focus in AI
 - 🪴 My experiences and interests lie in bioinformatics and applications of artificial intelligence in medicine. I'm also very curious about applied operational research in healthcare :-)
 - 📫 More of my info and experiences on my [website](https://jenniferchen.vercel.app/) and [LinkedIn](https://www.linkedin.com/in/jenniferachen/)
 
